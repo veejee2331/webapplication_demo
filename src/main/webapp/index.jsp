@@ -4,7 +4,6 @@
 <table>
 <tr>
 <th>Welcome to cloudnloud community</th>
-<th>Chennai</th>
 <th><img src="cloudnloud.png"></th>
 </tr>
 </table>
