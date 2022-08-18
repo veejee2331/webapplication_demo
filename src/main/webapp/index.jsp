@@ -4,7 +4,7 @@
 <table>
 <tr>
 <th>Welcome to cloudnloud community</th>
- <th>Global community</th>
+ <th>Global community - Welcome </th>
 <th><img src="cloudnloud.png"></th>
 </tr>
 </table>
